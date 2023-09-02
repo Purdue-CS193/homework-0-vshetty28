@@ -16,9 +16,6 @@ Syntax highlighted code block
 - i like the atmosphere of the class
 - i enjoy the content of the class
 
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
