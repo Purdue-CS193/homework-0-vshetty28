@@ -12,10 +12,8 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Vihaan Shetty's first CS193 Homework
-## Header 2
-### Header 3
 
-- i  the atmosphere of the class
+- i like the atmosphere of the class
 - i enjoy the content of the class
 
 1. Numbered
